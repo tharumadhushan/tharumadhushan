@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tharusha Madhushan</h1>
 <h3 align="center">Software Engineer</h3>
-<img src ="center">https://c4.wallpaperflare.com/wallpaper/162/894/557/colorful-neon-computer-keyboards-wallpaper-preview.jpg">
+<img src="https://c4.wallpaperflare.com/wallpaper/162/894/557/colorful-neon-computer-keyboards-wallpaper-preview.jpg">
 - 🔭 I’m currently working on [MyPortfolio](https://github.com/tharumadhushan/MyPortfolio.git)
 
 - 🌱 I’m currently learning **Internet Technologies**
