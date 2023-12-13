@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tharusha Madhushan</h1>
 <h3 align="center">Software Engineer</h3>
-<img src = "[https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.logigroup.com%2Fen-ma%2Fjava-jee&psig=AOvVaw19F1f17_LWK_OqyCDB_zJy&ust=1702527836590000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCID2m8vIi4MDFQAAAAAdAAAAABAQ)">
+<img src = "https://images.app.goo.gl/euDV7kgS89DPuJoq5">
 
 # 💫 About Me:
 🔭 I’m currently working on Computer Networking...<br>👯 I’m looking to collaborate on Software Engineering...<br>🤝 I’m looking for help with developing...<br>🌱 I’m currently learning Advanced API Development & Computer Networking for Software Engineers...<br>⚡ Fun fact - I am lazy but smart...
