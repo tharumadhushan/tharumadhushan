@@ -1,4 +1,4 @@
-<h1 align="center" font-family="Montserrat">Hi 👋, I'm Tharusha Madhushan</h1>
+<h1 align="center" color="light blue">Hi 👋, I'm Tharusha Madhushan</h1>
 <h3 align="center">Software Engineer</h3>
 <img src = "https://i.pinimg.com/originals/38/7e/4f/387e4f52081bfebd6ba96d9d784e9f94.gif">
 
